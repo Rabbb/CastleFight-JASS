@@ -1,0 +1,188 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0_Ns_.;;\-#,##0_Ns_.
+P;P#,##0_Ns_.;;[Red]\-#,##0_Ns_.
+P;P#,##0.00_Ns_.;;\-#,##0.00_Ns_.
+P;P#,##0.00_Ns_.;;[Red]\-#,##0.00_Ns_.
+P;P#,##0"$";;\-#,##0"$"
+P;P#,##0"$";;[Red]\-#,##0"$"
+P;P#,##0.00"$";;\-#,##0.00"$"
+P;P#,##0.00"$";;[Red]\-#,##0.00"$"
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#" "?/?
+P;P#" "??/??
+P;Pdd/mm/yyyy
+P;Pdd/mmm/yy
+P;Pdd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pdd/mm/yyyy\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_-* #,##0"$"_-;;\-* #,##0"$"_-;;_-* "-""$"_-;;_-@_-
+P;P_-* #,##0_Ns_._-;;\-* #,##0_Ns_._-;;_-* "-"_Ns_._-;;_-@_-
+P;P_-* #,##0.00"$"_-;;\-* #,##0.00"$"_-;;_-* "-"??"$"_-;;_-@_-
+P;P_-* #,##0.00_Ns_._-;;\-* #,##0.00_Ns_._-;;_-* "-"??_Ns_._-;;_-@_-
+P;FArial Cyr;M200
+P;FArial Cyr;M200
+P;FArial Cyr;M200
+P;FArial Cyr;M200
+P;EArial Cyr;M200
+P;EArial Cyr;M200
+P;EArial Cyr;M160
+F;P0;DG0G8;M255
+B;Y3;X46;D0 0 2 45
+O;L;D;V0;K47;G100 0.001
+F;W3 3 29
+F;W4 4 19
+F;W5 5 12
+C;Y1;X1;K"effectID"
+C;X2;K"name"
+C;X3;K"texDir"
+C;X4;K"texFile"
+C;X5;K"alphaMode"
+C;X6;K"useFog"
+C;X7;K"height"
+C;X8;K"angx"
+C;X9;K"angy"
+C;X10;K"emrate"
+C;X11;K"lifespan"
+C;X12;K"particles"
+C;X13;K"veloc"
+C;X14;K"accel"
+C;X15;K"var"
+C;X16;K"texr"
+C;X17;K"texc"
+C;X18;K"head"
+C;X19;K"tail"
+C;X20;K"taillen"
+C;X21;K"lati"
+C;X22;K"long"
+C;X23;K"midTime"
+C;X24;K"redStart"
+C;X25;K"greenStart"
+C;X26;K"blueStart"
+C;X27;K"redMid"
+C;X28;K"greenMid"
+C;X29;K"blueMid"
+C;X30;K"redEnd"
+C;X31;K"greenEnd"
+C;X32;K"blueEnd"
+C;X33;K"alphaStart"
+C;X34;K"alphaMid"
+C;X35;K"alphaEnd"
+C;X36;K"scaleStart"
+C;X37;K"scaleMid"
+C;X38;K"scaleEnd"
+C;X39;K"hUVStart"
+C;X40;K"hUVMid"
+C;X41;K"hUVEnd"
+C;X42;K"tUVStart"
+C;X43;K"tUVMid"
+C;X44;K"tUVEnd"
+C;X45;K"AmbientSound"
+C;X46;K"version"
+C;Y2;X1;K"SNhs"
+C;X2;K"WESTRING_WEATHER_NORTHRENDHEAVYSNOW"
+C;X3;K"ReplaceableTextures\Weather"
+C;X4;K"snow"
+C;X5;K0
+C;X6;K1
+C;X7;K768
+C;X8;K20
+C;X9;K20
+C;X10;K40
+C;X11;K2.5
+C;X12;K2000
+C;X13;K-300
+C;X14;K0
+C;X15;K0.08
+C;X16;K1
+C;X17;K1
+C;X18;K1
+C;X19;K0
+C;X20;K0.2
+C;X21;K15
+C;X22;K180
+C;X23;K0.5
+C;X24;K200
+C;X25;K200
+C;X26;K255
+C;X27;K200
+C;X28;K200
+C;X29;K255
+C;X30;K200
+C;X31;K200
+C;X32;K255
+C;X33;K255
+C;X34;K255
+C;X35;K255
+C;X36;K3.5
+C;X37;K3.5
+C;X38;K3.5
+C;X39;K0
+C;X40;K0
+C;X41;K0
+C;X42;K0
+C;X43;K0
+C;X44;K0
+C;X45;K"AmbientSoundTestWind"
+C;X46;K0
+C;Y3;X1;K"WNcw"
+C;X2;K"WESTRING_WEATHER_WIND"
+C;X3;K"ReplaceableTextures\Weather"
+C;X4;K"clouds8x8"
+C;X5;K1
+C;X6;K1
+C;X7;K400
+C;X8;K90
+C;X9;K75
+C;X10;K6
+C;X11;K2.5
+C;X12;K256
+C;X13;K-750
+C;X14;K0
+C;X15;K0.15
+C;X16;K8
+C;X17;K8
+C;X18;K1
+C;X19;K0
+C;X20;K0.3
+C;X21;K5
+C;X22;K180
+C;X23;K0.4
+C;X24;K255
+C;X25;K255
+C;X26;K128
+C;X27;K255
+C;X28;K255
+C;X29;K128
+C;X30;K255
+C;X31;K255
+C;X32;K128
+C;X33;K16
+C;X34;K32
+C;X35;K16
+C;X36;K260
+C;X37;K300
+C;X38;K340
+C;X39;K0
+C;X40;K32
+C;X41;K63
+C;X42;K0
+C;X43;K32
+C;X44;K63
+C;X45;K"AmbientSoundTestWind"
+E
