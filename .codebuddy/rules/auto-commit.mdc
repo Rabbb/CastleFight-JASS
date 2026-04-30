@@ -1,0 +1,24 @@
+---
+description: 
+alwaysApply: true
+enabled: true
+updatedAt: 2026-04-30T08:05:00.960Z
+provider: 
+---
+
+## 自动提交规则
+
+### 触发条件
+当完成文件修改（编辑/创建/删除）操作后，自动执行 git commit。
+
+### 执行方式
+1. 不等待用户确认
+2. commit message 格式：`docs: 翻译 buff.ini 第X-Y行`（根据实际修改内容调整）
+3. 使用 `git add .` 暂存所有更改
+4. 直接执行 commit
+
+### 示例命令
+```bash
+git add .
+git commit -m "docs: 翻译 buff.ini 第925-1023行"
+```
